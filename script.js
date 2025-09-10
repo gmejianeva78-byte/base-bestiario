@@ -2,7 +2,7 @@
 const listaCabezas = [
   "../assets/img/arnold 1.webp",
   "../assets/img/arnold 2.webp",
-  "../assets/img/arnold 3.webp",
+  "../assets/img/arnorld 3.png",
 ];
 const listaTroncos = [
  "../assets/img/back 1.webp",
