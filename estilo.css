@@ -62,6 +62,6 @@ a, a:active, a:visited, a:hover {
 #boton {
   font-size: 0.9em;
   background-color:  rgb(193, 120, 199);
-  color: white;
+  color: rgb(146, 26, 26);
   cursor: pointer;
 }
