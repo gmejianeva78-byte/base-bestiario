@@ -1,8 +1,8 @@
 // Listas de imágenes
 const listaCabezas = [
-  "../assets/img/arnold 1.webp",
-  "../assets/img/arnold 2.webp",
-  "../assets/img/arnorld 3.png",
+  "../base-bestiario/assets/img/arnold 1.webp",
+  "../base-bestiario/assets/img/arnold 2.webp",
+  "../base-bestiario/assets/img/arnorld 3.png",
 ];
 const listaTroncos = [
  "../assets/img/back 1.webp",
