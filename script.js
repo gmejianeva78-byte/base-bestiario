@@ -5,14 +5,14 @@ const listaCabezas = [
   "../base-bestiario/assets/img/arnorld 3.png",
 ];
 const listaTroncos = [
- "../assets/img/back 1.webp",
-  "../assets/img/back 2.webp",
-  "../assets/img/back 3.webp",
+ "../base-bestiario/assets/img/back 1.webp",
+  "../base-bestiario/assets/img/back 2.webp",
+  "../base-bestiario/assets/img/back 3.webp",
 ];
 const listaPatas = [
-  "../assets/img/escubi 1.webp",
-  "../assets/img/escubi 2.webp",
-  "../assets/img/escubi 3.png",
+  "../base-bestiario/assets/img/escubi 1.webp",
+  "../base-bestiario/assets/img/escubi 2.webp",
+  "../base-bestiario/assets/img/escubi 3.png",
 ];
 
 // Obtenemos los contenedores de las imágenes del HTML usando los IDs
